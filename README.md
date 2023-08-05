@@ -4,6 +4,10 @@ This repository collects the reports (as well as the Jupyter Notebook files to g
 
 This assignment involves the descriptive analysis of life expectancy, population and gross domestic product (GDP) in Southeast Asian countries.
 
+Grade obtained: 18/20
+
 # Assignment 2
 
 This assignment involves the predictive analysis of essay scores using machine learning. A support vector machine (SVM) is created to predict essay scores, which is then evaluated via the quadratic weighted kappa (QWK) score metric and submitted for an in-class Kaggle competition.
+
+Grade obtained: 19.5/20
